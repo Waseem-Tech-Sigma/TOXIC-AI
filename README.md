@@ -87,8 +87,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   --- 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/STEP NO : 2 🕸🔗🔗
--0D47A1?style=flat-square">
+  <img src="https://img.shields.io/badge/STEP NO : 2 🕸🔗🔗-0D47A1?style=flat-square">
+
 
 > **PAIRING LINK (01)**
   <a href='https://khanmd-pair.onrender.com/' target="_blank">
@@ -120,6 +120,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 </div>
   
 ---
+
 ## ☁️ Deployment Options
 
 <div align="center">
@@ -160,6 +161,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   </tr>
 </table>  
 
+---
+
 ## 🌟 BOT FEATURES
 ✦ POWERED BY LEGEND WASEEM✔️🚫
 ✦ Antidelete, Antiviewonce, Antilink
@@ -173,6 +176,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
+---
+
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
@@ -185,6 +190,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
+---
 ## ⚠️ WARNING !
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
@@ -192,13 +198,14 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
 </div>
 
+---
 ### 📜 Terms of Use
 
 + Strictly NOT FOR SALE
 + No unauthorized copying/distribution
 + Credit must be given when using/modifying
 
-
+---
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
   <a href="https://github.com/Waseem-Tech-Sigma">
@@ -210,6 +217,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
+---
 ## 👑 TOXIC STATUS
 
 ```diff
@@ -221,7 +229,9 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 <div align="center">
   <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
-
+---
   <h3> Thank you for visiting ❤️ </h3>
 </p>
-
+---
+---
+---
