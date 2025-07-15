@@ -1,4 +1,4 @@
-# TOXIC-AI
+
 TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 <p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">TOXIC-AI</h1>
@@ -59,10 +59,10 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 </div>
 
 <div align="center">
-  <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/media/menu.jpg?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/media/menu.jpg?raw=true" width="80%"/>
 </div>
 ## 🛰️ Deployment Steps Bellow 
 
