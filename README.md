@@ -68,7 +68,10 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   <img 
 ## 🛰️ Deployment Steps Bellow 
 
-<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
+ <div align="center">
+   STEP NO : 1💦
+
+   <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below</p>
@@ -84,6 +87,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
 
   --- 
+<div align="center">
+  STEP NO : 2 🕸
 > **PAIRING LINK (01)**
   <a href='https://khanmd-pair.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
@@ -116,6 +121,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 ---
 ## ☁️ Deployment Options
 
+<div align="center">
+  STEP NO : 3 🔚♻️
 <p align="center">
   <table>
     <tr>
