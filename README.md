@@ -44,7 +44,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 
 <p align="center">
   <a href="https://github.com/Waseem-Tech-Sigma">
-    <img src="https://img.shields.io/badge/_Follow_Us_Now-LEGEND-WASEEM-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
+    <img src="https://img.shields.io/badge/_Follow_Us_Now-LEGENDWASEEM-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
   </a>
 </p>
 
@@ -92,19 +92,22 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   </a>
 
   ---
-  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/assets/warning.gif?raw=true" width="15"/> 
-    Connection issues may require VPN activation
-  </p>
-</div>
-
+ <div align="center">
+  <img src="![alivejs](https://github.com/user-attachments/assets/b0dce8df-e902-426e-b12e-7ae54e8da578)
+" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
 </div>
 
-
+<div align="center">
+  <img src="https://github.com/JawadTechXD/KHAN-MD//blob/main/assets/divider.gif?raw=true" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+</div>
+  
 ---
 ## ☁️ Deployment Options
 
@@ -143,7 +146,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 </table>  
 
 ## 🌟 BOT FEATURES
-✦ POWERED BY LEGEN WASEEM✔️🚫
+✦ POWERED BY LEGEND WASEEM✔️🚫
 ✦ Antidelete, Antiviewonce, Antilink
 ✦ High speed YT, Tiktok, FB, IG Downloaders
 ✦ 10+ AI models + Image anlysis AI
