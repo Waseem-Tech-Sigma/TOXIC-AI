@@ -67,10 +67,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 ---
 
  <div align="center">
- 
-   ## STEP NO : 1💦🔰
-
-
+ <img src="https://img.shields.io/badge/STEP NO : 1💦🔰-0D47A1?style=flat-square">
+  
    <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
@@ -89,7 +87,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   --- 
 <div align="center">
 
-  ## STEP NO : 2 🕸🔗🔗
+  <img src="https://img.shields.io/badge/STEP NO : 2 🕸🔗🔗
+-0D47A1?style=flat-square">
 
 > **PAIRING LINK (01)**
   <a href='https://khanmd-pair.onrender.com/' target="_blank">
@@ -125,7 +124,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 
 <div align="center">
   
-  ## STEP NO : 3 🔚♻️
+  <img src="https://img.shields.io/badge/STEP NO : 3 🔚♻️-0D47A1?style=flat-square">
 
 <p align="center">
   <table>
