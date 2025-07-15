@@ -34,10 +34,11 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 ---
 <div align="center">
 <a href="https://ibb.co/rf5vqpnt"><img src="https://i.ibb.co/wrpY8QDL/alivejs.jpg" alt="alivejs" border="0"></a>
----
+
+  ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=fAB940&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;CREATED+BY+LEGEND+WASEEM" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&duration=4000&pause=1000&color=fAB940&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;CREATED+BY+LEGEND+WASEEM" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
