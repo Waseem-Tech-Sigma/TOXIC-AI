@@ -33,8 +33,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 
 ---
 <div align="center">
-![markdown](https://github.com/user-attachments/assets/f3a8c10c-337e-44f0-8c1f-870cf5b6e1ce)
-
+<a href="https://ibb.co/rf5vqpnt"><img src="https://i.ibb.co/wrpY8QDL/alivejs.jpg" alt="alivejs" border="0"></a>
 ---
 
 <p align="center">
