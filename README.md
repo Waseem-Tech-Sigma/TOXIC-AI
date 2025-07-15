@@ -112,21 +112,13 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD//blob/main/assets/divider.gif?raw=true" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
-</div>
-  
 ---
-
-## ☁️ Deployment Options
 
 <div align="center">
   
   <img src="https://img.shields.io/badge/STEP NO : 3 🔚♻️-0D47A1?style=flat-square">
 
+## 📶DEPLOYMENT OPTIONS 🚩
 <p align="center">
   <table>
     <tr>
