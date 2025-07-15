@@ -32,6 +32,10 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 > **Current Bot Version `5.0.0`**  
 
 ---
+<div align="center">
+![alivejs](https://github.com/user-attachments/assets/f3a8c10c-337e-44f0-8c1f-870cf5b6e1ce)
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=fAB940&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;CREATED+BY+LEGEND+WASEEM" alt="Animated Typing SVG" />
