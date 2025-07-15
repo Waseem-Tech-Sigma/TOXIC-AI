@@ -38,8 +38,9 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
   ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=4000&pause=1000&color=fAB940&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;CREATED+BY+LEGEND+WASEEM" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Black+Ops+One&size=50&pause=1000&color=AB24ff&center=true&width=1000&height=200&lines=TOXIC-AI;ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;CREATED+BY+LEGEND+WASEEM" alt="Animated Typing SVG" />
 </p>
+
 
 <div align="center">
 
