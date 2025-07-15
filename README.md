@@ -51,7 +51,8 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="![alivejs](https://github.com/user-attachments/assets/8197852a-dfbc-4da9-bf11-873f67197803)
+" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
@@ -59,11 +60,7 @@ TOXIC-AI YOUR ULTIMATE WHATSAPP BOT
 </div>
 
 <div align="center">
-  <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/media/menu.jpg?raw=true" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/Waseem-Tech-Sigma/TOXIC-AI/blob/main/media/menu.jpg?raw=true" width="80%"/>
-</div>
+  <img 
 ## 🛰️ Deployment Steps Bellow 
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
